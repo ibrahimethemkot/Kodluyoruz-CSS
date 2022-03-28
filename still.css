@@ -1,0 +1,235 @@
+body{
+    background-color:blue
+}
+
+.merkez_div{
+    width: 1581px;
+    height: 860px;
+    background-color: rgb(190, 136, 35);
+    margin-left: 100px;
+    margin-top: 90px;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+
+.baslik{
+    width: 260px;
+    height: auto;
+    margin: 10px 0px 0px 745px;
+    background-color: rgb(190, 136, 35);
+    border-radius: 20px;
+    text-align: center;
+}
+
+.baslik_span{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: blue;
+    text-decoration: none;
+}
+
+.menu{
+    width: auto;
+    float: left;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.menu ul{
+    float: left;
+    text-decoration: none;
+    list-style-type:none;
+}
+
+.menu li{
+    float: left;
+    text-decoration: none;
+    list-style-type:none;
+}
+
+.menu ul li a{
+    width: 250px;
+    height: 40px;
+    display: block;
+    background-color: rgb(190, 136, 35);
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 230px;
+    border-radius: 20px;
+}
+
+.menu ul li a:hover{
+    width: 250px;
+    height: 40px;
+    display: block;
+    background-color: rgb(190, 35, 35);
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 230px;
+    border-radius: 20px;
+}
+
+.footer{
+    width: 1581px;
+    height: 60px;
+    background-color: rgb(190, 136, 35);
+    margin-left: 100px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+
+.footer li{
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    margin-top: 15px ;
+    margin-left: 15px;
+}
+
+.footer_yazi{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: blue;
+}
+
+.anasayfa{
+    width: 1540px;
+    height: 800px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 40px;
+    border-radius: 20px;;
+}
+
+.urun1{
+    width: 320px;
+    height: 220px;
+    margin-left: 50px;
+    float: left;
+}
+
+.urun2{
+    width: 320px;
+    height: 220px;
+    margin-left: 50px;
+    float: left;
+}
+
+.urun3{
+    width: 320px;
+    height: 220px;
+    margin-left: 50px;
+    float: left;
+}
+
+.urun4{
+    width: 320px;
+    height: 220px;
+    margin-left: 50px;
+    float: left;
+}
+
+.urun_yazi{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 23px;
+    color: rgb(166, 197, 164)
+}
+
+.urun1_ozellik{
+    width: 320px;
+    height: 550px;
+    margin-top: 70px;
+    margin-left: 50px;
+    float: left;
+}
+
+.urun2_ozellik{
+    width: 320px;
+    height: 550px;
+    margin-top: 70px;
+    margin-left: 50px;
+    float: left;
+}
+
+.urun3_ozellik{
+    width: 320px;
+    height: 550px;
+    margin-top: 70px;
+    margin-left: 50px;
+    float: left;
+}
+
+.urun4_ozellik{
+    width: 320px;
+    height: 550px;
+    margin-top: 70px;
+    margin-left: 50px;
+    float: left;
+}
+
+.ozellik_yazi{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    color: rgb(166, 197, 164);
+    font-style: oblique;
+}
+
+.iletisim_gorsel{
+    width: 1500px ;
+    height: 250px;
+    background-image: url(images/iletisim_gorsel.png);
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.iletisim_baslik{
+    width: 1000px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.iletisim_baslik_span{
+    color: rgb(166, 197, 164);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.iletisim_yazi{
+    color: rgb(166, 197, 164);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.anasayfa_gorsel{
+    width: 1540px;
+    height: 400px;
+}
+
+.anasayfa_gorsel2{
+    width: 770px;
+    height: 400px;
+    background-image: url(images/anasayfa_gorsel2.png);
+    float: left;
+}
+
+.anasayfa_gorsel3{
+    width: 770px;
+    height: 400px;
+    background-image: url(images/anasayfa_gorsel3.png);
+    float: left;
+}
